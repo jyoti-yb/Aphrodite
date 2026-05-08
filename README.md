@@ -1,0 +1,1 @@
+Hi! This is a manual to understand how LLMs work right from the groundlevel and building it step by step.
